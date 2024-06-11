@@ -1,0 +1,2854 @@
+.frame-child,
+.overlay {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.frame-child {
+  left: 162px;
+  max-height: 100%;
+  width: 1512px;
+  object-fit: cover;
+}
+.overlay {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: rgba(29, 29, 29, 0.3);
+  z-index: 1;
+}
+.image-row,
+.shape-icon {
+  position: absolute;
+  top: 677px;
+  left: 1552px;
+  width: 16px;
+  height: 14px;
+  z-index: 2;
+}
+.image-row {
+  top: 645px;
+  left: 162px;
+  border-top: 1px solid silver;
+  box-sizing: border-box;
+  width: 1513px;
+  height: 1px;
+}
+.image-9-icon {
+  left: 262px;
+  width: 124px;
+}
+.fyqcgvrsqtefurp7cw5iafvyolh-1-icon,
+.image-27-icon,
+.image-4-icon,
+.image-9-icon {
+  position: absolute;
+  top: 511px;
+  border-radius: var(--br-8xs);
+  height: 179px;
+  object-fit: cover;
+  z-index: 3;
+}
+.image-27-icon {
+  left: 932px;
+  width: 123px;
+  cursor: pointer;
+}
+.fyqcgvrsqtefurp7cw5iafvyolh-1-icon,
+.image-4-icon {
+  left: 1272px;
+  width: 127px;
+}
+.fyqcgvrsqtefurp7cw5iafvyolh-1-icon {
+  left: 1445px;
+  width: 126px;
+  height: 180px;
+}
+.today {
+  position: absolute;
+  top: 264px;
+  left: 285.1px;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  font-style: italic;
+  z-index: 2;
+}
+.image-row1 {
+  position: absolute;
+  top: 276px;
+  left: 162.1px;
+  border-top: 1px solid var(--primary-white);
+  box-sizing: border-box;
+  width: 124px;
+  height: 1px;
+  z-index: 3;
+}
+.soon {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  font-style: italic;
+}
+.frame-item {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  border-top: 1px solid var(--primary-white);
+  box-sizing: border-box;
+  width: 99px;
+  height: 1px;
+}
+.soon-parent {
+  position: absolute;
+  top: 297px;
+  left: 162.1px;
+  width: 135px;
+  height: 24px;
+  cursor: pointer;
+  z-index: 2;
+  font-size: var(--time-size);
+}
+.image-18-icon,
+.image-28-icon,
+.mizaki-1080-1080-3 {
+  position: absolute;
+  border-radius: var(--br-8xs);
+  object-fit: cover;
+}
+.mizaki-1080-1080-3 {
+  top: 511px;
+  left: 1101px;
+  width: 125px;
+  height: 179px;
+  cursor: pointer;
+  z-index: 3;
+}
+.image-18-icon,
+.image-28-icon {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.image-28-icon {
+  left: 1px;
+  cursor: pointer;
+  z-index: 4;
+}
+.double-image,
+.image-67-icon {
+  position: absolute;
+  top: 512px;
+  left: 431px;
+  width: 125px;
+  height: 179px;
+}
+.image-67-icon {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.the-lion-king {
+  margin: 0;
+  position: absolute;
+  top: 277px;
+  left: 71px;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  width: 144px;
+  z-index: 4;
+}
+.book-now {
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-weight: 700;
+  font-family: var(--font-nunito-sans);
+  color: var(--primary-white);
+  text-align: left;
+}
+.button-red {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) 25px;
+  background-color: #ab0a10;
+  position: absolute;
+  top: 320px;
+  left: 82px;
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 4;
+}
+.button-red:hover {
+  background-color: #d13036;
+}
+.play-button {
+  position: absolute;
+  top: 307px;
+  left: 600px;
+  width: 287px;
+  height: 383px;
+  font-size: var(--font-size-6xl);
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.49) 11.54%, transparent);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.untitled-2-2-icon {
+  position: absolute;
+  top: 21.5px;
+  left: 96px;
+  width: 133px;
+  height: 37px;
+  object-fit: contain;
+  z-index: 3;
+}
+.icon-button {
+  position: absolute;
+  top: 24.5px;
+  left: 1382px;
+  width: 30px;
+  height: 30px;
+  z-index: 3;
+}
+.ag-hisse-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs-5);
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.ag-hisse-item {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  border-radius: 50%;
+  background-color: #121212;
+  width: 17px;
+  height: 17px;
+  z-index: 1;
+}
+.ag-hisse {
+  position: absolute;
+  top: 29.5px;
+  left: 1301px;
+  border-radius: var(--br-2xs-5);
+  background-color: var(--color-gainsboro-100);
+  width: 47px;
+  height: 21px;
+  z-index: 3;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.49) 11.54%, transparent);
+  width: 1512px;
+  height: 86.5px;
+  z-index: 2;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: -162px;
+  width: 2062px;
+  height: 775px;
+}
+.card-img-icon,
+.image-6-icon {
+  position: absolute;
+  top: 511px;
+  left: 1455px;
+  border-radius: var(--br-8xs);
+  width: 124px;
+  height: 180px;
+  object-fit: cover;
+  z-index: 3;
+}
+.image-6-icon {
+  top: 512px;
+  left: -72px;
+  width: 122px;
+  height: 178px;
+}
+.frame-parent {
+  align-self: stretch;
+  height: 813.2px;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--primary-white);
+  font-family: var(--news-headr);
+}
+.new-realease,
+.see-more {
+  position: relative;
+  font-weight: 600;
+}
+.new-realease {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-family: inherit;
+}
+.see-more {
+  line-height: 150%;
+}
+.vector-icon {
+  width: 21px;
+  height: 13px;
+  position: relative;
+  object-fit: contain;
+}
+.vector-wrapper {
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+}
+.new-release-more,
+.new-release-more-link,
+.vector-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.new-release-more-link {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.new-release-more {
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  font-size: var(--font-size-base);
+  font-family: var(--news-headr);
+}
+.new-release-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.april,
+.game-of-thrones {
+  position: relative;
+  font-weight: 500;
+}
+.game-of-thrones {
+  margin: 0;
+  font-size: inherit;
+  line-height: 20px;
+  font-family: inherit;
+}
+.april {
+  font-size: var(--font-size-mini);
+  line-height: 15px;
+}
+.game-of-thrones-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.ru-en {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-weight: 700;
+  color: #f33;
+}
+.frame-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.empty-title {
+  width: 41px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-container {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 4px;
+}
+.bashliqlar,
+.card,
+.frame-175default,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-175default {
+  flex: 1;
+  flex-direction: column;
+}
+.bashliqlar,
+.card {
+  flex-direction: row;
+}
+.bashliqlar {
+  flex: 1;
+  padding: 0 var(--padding-4xs) 0 0;
+}
+.card {
+  position: absolute;
+  top: 327px;
+  left: 30px;
+  width: 173px;
+}
+.image-14-icon,
+.overlay1 {
+  border-radius: var(--br-8xs);
+}
+.image-14-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.overlay1 {
+  background: linear-gradient(
+    180deg,
+    rgba(29, 29, 29, 0),
+    rgba(29, 29, 29, 0.78)
+  );
+  z-index: 1;
+}
+.image-14-parent,
+.overlay1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april1 {
+  line-height: 15px;
+}
+.april1,
+.empty-info,
+.ru {
+  position: relative;
+}
+.empty-info {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru {
+  line-height: 16px;
+}
+.second-card-options {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en {
+  position: relative;
+  line-height: 16px;
+}
+.second-card-options1 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.card-info,
+.second-card-language {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.second-card-language {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.card-info {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  font-size: var(--font-size-base);
+}
+.single-card {
+  height: 450px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+}
+.image-14-icon1,
+.overlay-icon {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon {
+  z-index: 1;
+}
+.image-14-group,
+.overlay-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones2 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april2 {
+  line-height: 15px;
+}
+.april2,
+.div,
+.ru1 {
+  position: relative;
+}
+.div {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru1 {
+  line-height: 16px;
+}
+.language-options {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en1 {
+  position: relative;
+  line-height: 16px;
+}
+.english-option {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.game-of-thrones-group,
+.language {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.language {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-group {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 90px 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-41 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon2,
+.overlay-icon1 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon1 {
+  z-index: 1;
+}
+.image-14-container,
+.overlay-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones3 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april3 {
+  line-height: 15px;
+}
+.april3,
+.div1,
+.ru2 {
+  position: relative;
+}
+.div1 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru2 {
+  line-height: 16px;
+}
+.ru-wrapper {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en2 {
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent1,
+.game-of-thrones-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent1 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-container {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-3 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon3,
+.overlay-icon2 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon2 {
+  z-index: 1;
+}
+.group-div,
+.overlay-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones4 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april4,
+.div2 {
+  position: relative;
+  line-height: 15px;
+}
+.div2 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru-container,
+.ru3 {
+  align-self: stretch;
+  display: none;
+}
+.ru3 {
+  width: 17px;
+  position: relative;
+  line-height: 16px;
+}
+.ru-container {
+  width: 37px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.en3 {
+  position: relative;
+  line-height: 16px;
+}
+.en-container {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent2,
+.game-of-thrones-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent2 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent1 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 14px 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-31 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.movie-carousel {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl-3);
+  grid-template-columns: repeat(4, minmax(232px, 1fr));
+  font-size: var(--font-size-base);
+  color: var(--primary-white);
+  font-family: var(--news-headr);
+}
+.navigation-header-inner,
+.new-release-title-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.new-release-title-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 41px;
+}
+.navigation-header-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.coming-soon,
+.see-more1 {
+  position: relative;
+  font-weight: 600;
+}
+.coming-soon {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-family: inherit;
+}
+.see-more1 {
+  line-height: 150%;
+}
+.second-more-icon {
+  width: 21px;
+  height: 13px;
+  position: relative;
+  object-fit: contain;
+}
+.second-more-icon-wrapper {
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+}
+.second-more-icon-wrapper,
+.second-see-more,
+.second-see-more-link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.second-see-more-link {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.second-see-more {
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  font-size: var(--font-size-base);
+  font-family: var(--news-headr);
+}
+.second-coming-soon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.image-14-icon4,
+.overlay-icon3 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon3 {
+  z-index: 1;
+}
+.image-14-parent1,
+.overlay-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones5 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april5 {
+  line-height: 15px;
+}
+.april5,
+.ru4,
+.separator {
+  position: relative;
+}
+.separator {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru4 {
+  line-height: 16px;
+}
+.ru-frame {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en4 {
+  position: relative;
+  line-height: 16px;
+}
+.en-frame {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent3,
+.second-movie-titles {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent3 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.second-movie-titles {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-42 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon5,
+.overlay-icon4 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon4 {
+  z-index: 1;
+}
+.image-14-parent2,
+.overlay-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones6 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april6 {
+  line-height: 15px;
+}
+.april6,
+.div3,
+.ru5 {
+  position: relative;
+}
+.div3 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru5 {
+  line-height: 16px;
+}
+.ru-wrapper1 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en-wrapper1,
+.en5 {
+  align-self: stretch;
+  display: none;
+}
+.en5 {
+  width: 16px;
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper1 {
+  width: 36px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent4,
+.game-of-thrones-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent4 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent2 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-32 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon6,
+.overlay-icon5 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon5 {
+  z-index: 1;
+}
+.image-14-parent3,
+.overlay-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones7 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april7 {
+  line-height: 15px;
+}
+.april7,
+.div4,
+.ru6 {
+  position: relative;
+}
+.div4 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru6 {
+  line-height: 16px;
+}
+.ru-wrapper2 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en6 {
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper2 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent5,
+.game-of-thrones-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent5 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent3 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-33 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon7,
+.overlay-icon6 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon6 {
+  z-index: 1;
+}
+.image-14-parent4,
+.overlay-icon6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones8 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april8 {
+  line-height: 15px;
+}
+.april8,
+.div5,
+.ru7 {
+  position: relative;
+}
+.div5 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru7 {
+  line-height: 16px;
+}
+.ru-wrapper3 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en7 {
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper3 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent6,
+.game-of-thrones-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent6 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent4 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-43 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.component-4-parent {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl-3);
+  grid-template-columns: repeat(4, minmax(232px, 1fr));
+  font-size: var(--font-size-base);
+  color: var(--primary-white);
+  font-family: var(--news-headr);
+}
+.second-carousel-title,
+.second-movie-carousel {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.second-carousel-title {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-10xl);
+}
+.second-movie-carousel {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.coming-soon1,
+.see-more2 {
+  position: relative;
+  font-weight: 600;
+}
+.coming-soon1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-family: inherit;
+}
+.see-more2 {
+  line-height: 150%;
+}
+.more-icon {
+  width: 21px;
+  height: 7.9px;
+  position: relative;
+  object-fit: contain;
+}
+.more-icon-wrapper {
+  flex-direction: column;
+  padding: var(--padding-5xs) 0 0;
+}
+.more-icon-wrapper,
+.see-more-title,
+.see-more-title-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.see-more-title {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.see-more-title-wrapper {
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  font-size: var(--font-size-base);
+  font-family: var(--news-headr);
+}
+.soon-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.image-66-icon,
+.image-67-icon1,
+.image-68-icon,
+.image-69-icon {
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 239px;
+}
+.image-grid,
+.soon-title-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-grid {
+  display: grid;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  grid-template-columns: repeat(4, minmax(232px, 1fr));
+}
+.soon-title-parent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+}
+.coming-soon2,
+.see-more3 {
+  position: relative;
+  font-weight: 600;
+}
+.coming-soon2 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-family: inherit;
+}
+.see-more3 {
+  line-height: 150%;
+}
+.chevron-right-icon {
+  width: 21px;
+  height: 13px;
+  position: relative;
+  object-fit: contain;
+}
+.see-more-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+}
+.see-more-button {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.movies-header,
+.see-more-button,
+.see-more-link {
+  display: flex;
+  align-items: flex-start;
+}
+.see-more-link {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0 0;
+  font-size: var(--font-size-base);
+  font-family: var(--news-headr);
+}
+.movies-header {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.image-14-icon8,
+.overlay-icon7 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon7 {
+  z-index: 1;
+}
+.image-14-parent5,
+.overlay-icon7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones9 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april9,
+.card-separator {
+  position: relative;
+  line-height: 15px;
+}
+.card-separator {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru8 {
+  position: relative;
+  line-height: 16px;
+}
+.russian-options {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en8 {
+  position: relative;
+  line-height: 16px;
+}
+.english-options {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.card-details,
+.language-options1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.language-options1 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.card-details {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-44 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon9,
+.overlay-icon8 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon8 {
+  z-index: 1;
+}
+.image-14-parent6,
+.overlay-icon8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones10 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+}
+.april10 {
+  line-height: 15px;
+}
+.april10,
+.div6,
+.ru9 {
+  position: relative;
+}
+.div6 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru9 {
+  line-height: 16px;
+}
+.ru-wrapper4 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en-wrapper4,
+.en9 {
+  align-self: stretch;
+  display: none;
+}
+.en9 {
+  width: 16px;
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper4 {
+  width: 36px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent7,
+.game-of-thrones-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent7 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent5 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-34 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon10,
+.overlay-icon9 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon9 {
+  z-index: 1;
+}
+.image-14-parent7,
+.overlay-icon9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones11 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april11 {
+  line-height: 15px;
+}
+.april11,
+.div7,
+.ru10 {
+  position: relative;
+}
+.div7 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru10 {
+  line-height: 16px;
+}
+.ru-wrapper5 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en10 {
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper5 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent8,
+.game-of-thrones-parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent8 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent6 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-35 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.image-14-icon11,
+.overlay-icon10 {
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-14-icon11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.overlay-icon10 {
+  z-index: 1;
+}
+.image-14-parent8,
+.overlay-icon10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.game-of-thrones12 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 20px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.april12 {
+  line-height: 15px;
+}
+.april12,
+.div8,
+.ru11 {
+  position: relative;
+}
+.div8 {
+  width: 41px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ru11 {
+  line-height: 16px;
+}
+.ru-wrapper6 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.en11 {
+  position: relative;
+  line-height: 16px;
+}
+.en-wrapper6 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-3xs);
+}
+.frame-parent9,
+.game-of-thrones-parent7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent9 {
+  flex-direction: row;
+  font-size: var(--font-size-sm);
+}
+.game-of-thrones-parent7 {
+  position: absolute;
+  height: 21.56%;
+  width: 53.4%;
+  top: 71.78%;
+  right: 36.89%;
+  bottom: 6.67%;
+  left: 9.71%;
+  flex-direction: column;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.component-45 {
+  height: 450px;
+  position: relative;
+  border-radius: var(--br-mid);
+}
+.component-4-group,
+.movies-row {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-4-group {
+  display: grid;
+  flex-direction: row;
+  gap: var(--gap-6xl-3);
+  grid-template-columns: repeat(4, minmax(232px, 1fr));
+  font-size: var(--font-size-base);
+  color: var(--primary-white);
+  font-family: var(--news-headr);
+}
+.movies-row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-10xl);
+}
+.coming-soon3,
+.see-more4 {
+  position: relative;
+  font-weight: 600;
+}
+.coming-soon3 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-family: inherit;
+}
+.see-more4 {
+  line-height: 150%;
+}
+.vector-icon1 {
+  width: 21px;
+  height: 7.9px;
+  position: relative;
+  object-fit: contain;
+}
+.vector-container {
+  flex-direction: column;
+  padding: var(--padding-5xs) 0 0;
+}
+.frame-wrapper,
+.see-more-parent,
+.vector-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.see-more-parent {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper {
+  flex-direction: column;
+  padding: var(--padding-xl) 0 0;
+  font-size: var(--font-size-base);
+  font-family: var(--news-headr);
+}
+.coming-soon-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.image-66-icon1,
+.image-67-icon2,
+.image-68-icon1,
+.image-69-icon1 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 239px;
+}
+.frame-parent10,
+.image-66-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-66-parent {
+  display: grid;
+  flex-direction: row;
+  gap: var(--gap-6xl);
+  grid-template-columns: repeat(4, minmax(232px, 1fr));
+}
+.frame-parent10 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+}
+.navigation,
+.navigation-header {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navigation-header {
+  height: 2541.2px;
+  width: 1315px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 401.2px;
+  gap: 85px;
+}
+.navigation {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 21px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.news-background {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #141414;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.news-image-container {
+  margin-left: -3388px;
+  height: 399px;
+  width: 1512px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 6px 0 0;
+  box-sizing: border-box;
+  max-width: 140%;
+  flex-shrink: 0;
+}
+.latest-news {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.image-56-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.new-american-films,
+.news-separator {
+  position: relative;
+  line-height: 150%;
+  z-index: 1;
+}
+.new-american-films {
+  height: 60px;
+  width: 314px;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.news-separator {
+  font-style: italic;
+  font-weight: 200;
+}
+.news-description,
+.news-excerpt {
+  display: flex;
+  align-items: flex-start;
+}
+.news-excerpt {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 40px 0 0;
+  font-size: var(--time-size);
+}
+.news-description {
+  width: 458px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.us-produced-independence-day {
+  width: 471px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  font-weight: 500;
+  color: #d8d8d8;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.news-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 206px var(--padding-xl) var(--padding-35xl) var(--padding-16xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 22px;
+  min-width: 363px;
+  max-width: 100%;
+}
+.image-57-icon,
+.image-57-icon1,
+.image-57-icon2,
+.image-57-icon3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-slider {
+  height: 400px;
+  width: 85.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.event-separator {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-style: italic;
+  font-weight: 300;
+}
+.an-event-titled {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--news-headr-size);
+  line-height: 150%;
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.event-items {
+  width: 309px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.i,
+.khazri-dance-group {
+  position: relative;
+  line-height: 150%;
+}
+.i {
+  letter-spacing: 0.01em;
+  font-style: italic;
+  font-weight: 300;
+}
+.khazri-dance-group {
+  align-self: stretch;
+  font-size: var(--news-headr-size);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.event-items1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 18px;
+  gap: var(--gap-8xs);
+}
+.i1,
+.the-conference-azerbaijani {
+  position: relative;
+  line-height: 150%;
+}
+.i1 {
+  letter-spacing: 0.01em;
+  font-style: italic;
+  font-weight: 300;
+}
+.the-conference-azerbaijani {
+  align-self: stretch;
+  font-size: var(--news-headr-size);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.event-items2 {
+  width: 347px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  max-width: 100%;
+}
+.i2,
+.the-conference-heydar {
+  position: relative;
+  line-height: 150%;
+}
+.i2 {
+  letter-spacing: 0.01em;
+  font-style: italic;
+  font-weight: 300;
+}
+.the-conference-heydar {
+  align-self: stretch;
+  font-size: var(--news-headr-size);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.event-items3 {
+  width: 347px;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.event-items3,
+.event-list,
+.news-events {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.event-list {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+}
+.news-events {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 7px;
+  box-sizing: border-box;
+  min-width: 235px;
+}
+.gallery-container,
+.news-gallery {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gallery-container {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 24.7px;
+}
+.news-gallery {
+  width: 472.3px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 28px 0 0;
+  box-sizing: border-box;
+  min-width: 472.3px;
+  font-size: var(--mini-size);
+  color: var(--color-black);
+}
+.news-list {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-32xl);
+  font-size: var(--font-size-xl);
+  color: var(--primary-white);
+}
+.news-content,
+.news-image-container-parent,
+.news-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.news-content {
+  width: 1081.3px;
+  flex-direction: column;
+  gap: 50px;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+}
+.news-image-container-parent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 216px 0 215px;
+  box-sizing: border-box;
+  gap: 1876px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: #383838;
+  font-family: var(--news-headr);
+}
+.footer-content-child {
+  width: 1512px;
+  height: 319px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.profile {
+  position: relative;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  z-index: 1;
+}
+.faqs,
+.profile {
+  align-self: stretch;
+}
+.faqs,
+.order-tracking,
+.pricing-plans,
+.returns {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+  z-index: 1;
+}
+.link-list,
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-list {
+  align-self: stretch;
+  gap: var(--gap-base-1);
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  font-size: var(--font-size-mini);
+}
+.profile-links {
+  width: 98.5px;
+  gap: 36.8px;
+}
+.recent-posts {
+  position: relative;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  z-index: 1;
+}
+.cicilan,
+.offices-you-wont,
+.touch-of-uniqueness {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+  z-index: 1;
+}
+.cicilan {
+  width: 115.6px;
+  display: inline-block;
+}
+.post-links {
+  gap: var(--gap-base-1);
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  font-size: var(--font-size-mini);
+}
+.column-two,
+.post-links,
+.recent-posts-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recent-posts-parent {
+  gap: 35.3px;
+}
+.column-two {
+  padding: var(--padding-12xs) 0 0;
+}
+.customer {
+  position: relative;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  z-index: 1;
+}
+.help-contact,
+.online-stores,
+.return,
+.terms-cordition {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+  z-index: 1;
+}
+.support-links {
+  gap: 16.1px;
+  flex-shrink: 0;
+  debug_commit: 69da668;
+  font-size: var(--font-size-mini);
+}
+.column-three,
+.customer-support,
+.support-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.customer-support {
+  gap: 36.3px;
+}
+.column-three {
+  padding: 2.5px 0 0;
+}
+.contact,
+.group-icon {
+  position: relative;
+  z-index: 1;
+}
+.contact {
+  align-self: stretch;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.group-icon {
+  width: 18px;
+  height: 18px;
+}
+.social-icons-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.facebook-icon,
+.twitter-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+  z-index: 1;
+}
+.social-icons,
+.social-links {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.social-icons {
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+}
+.social-links {
+  padding: 0 var(--padding-8xs);
+}
+.column-four,
+.column-one,
+.social-links {
+  display: flex;
+  align-items: flex-start;
+}
+.column-four {
+  width: 177px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 35.5px;
+}
+.column-one {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.footer-divider {
+  width: 1116px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid rgba(62, 62, 62, 0.63);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-columns {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 46.5px;
+  max-width: 100%;
+}
+.all-right-reserved,
+.span {
+  font-weight: 300;
+}
+.shah-fazle-elahi-container1 {
+  width: 100%;
+}
+.shah-fazle-elahi-container {
+  margin: 0;
+  width: 1056px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.01em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+  font-family: var(--font-work-sans);
+}
+.footer-content {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  flex-direction: column;
+  padding: var(--padding-16xl) 173px 22px 211px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.footer,
+.footer-content,
+.home-page {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--news-headr);
+}
+.home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--primary-white);
+  overflow: hidden;
+  flex-direction: column;
+  gap: 46.8px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1425px) {
+  .navigation-header {
+    padding-bottom: 170px;
+    box-sizing: border-box;
+  }
+  .news-image-container-parent {
+    flex-wrap: wrap;
+    gap: 938px;
+    justify-content: center;
+    padding-left: 107px;
+    padding-right: 108px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .component-4-group,
+  .component-4-parent,
+  .image-66-parent,
+  .image-grid,
+  .movie-carousel {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(232px, 402px));
+  }
+  .news-gallery,
+  .news-item {
+    min-width: 100%;
+  }
+  .news-gallery {
+    flex: 1;
+  }
+  .news-list {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .new-realease {
+    font-size: var(--font-size-10xl);
+    line-height: 26px;
+  }
+  .new-release-title-parent {
+    gap: var(--gap-xl);
+  }
+  .coming-soon,
+  .coming-soon1 {
+    font-size: var(--font-size-10xl);
+    line-height: 26px;
+  }
+  .soon-title-parent {
+    gap: var(--gap-base);
+  }
+  .coming-soon2,
+  .coming-soon3 {
+    font-size: var(--font-size-10xl);
+    line-height: 26px;
+  }
+  .frame-parent10 {
+    gap: var(--gap-base);
+  }
+  .navigation-header {
+    gap: 42px;
+    padding-bottom: 110px;
+    box-sizing: border-box;
+  }
+  .gallery-container,
+  .news-description {
+    flex-wrap: wrap;
+  }
+  .news-content,
+  .news-list {
+    gap: var(--gap-6xl);
+  }
+  .news-image-container-parent {
+    gap: 469px;
+    padding-left: 53px;
+    padding-right: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .column-one {
+    flex-wrap: wrap;
+  }
+  .footer-columns {
+    gap: var(--gap-4xl);
+  }
+  .footer-content {
+    padding-left: 105px;
+    padding-right: 86px;
+    box-sizing: border-box;
+  }
+  .home-page {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .today {
+    font-size: var(--font-size-base);
+    line-height: 19px;
+  }
+  .the-lion-king {
+    font-size: var(--font-size-xl);
+    line-height: 32px;
+  }
+  .new-realease {
+    font-size: var(--font-size-3xl);
+    line-height: 19px;
+  }
+  .new-release-title {
+    flex-wrap: wrap;
+  }
+  .game-of-thrones,
+  .game-of-thrones1,
+  .game-of-thrones2,
+  .game-of-thrones3,
+  .game-of-thrones4 {
+    font-size: var(--font-size-lg);
+    line-height: 16px;
+  }
+  .movie-carousel {
+    grid-template-columns: minmax(232px, 1fr);
+  }
+  .coming-soon {
+    font-size: var(--font-size-3xl);
+    line-height: 19px;
+  }
+  .second-coming-soon {
+    flex-wrap: wrap;
+  }
+  .game-of-thrones5,
+  .game-of-thrones6,
+  .game-of-thrones7,
+  .game-of-thrones8 {
+    font-size: var(--font-size-lg);
+    line-height: 16px;
+  }
+  .component-4-parent {
+    grid-template-columns: minmax(232px, 1fr);
+  }
+  .coming-soon1 {
+    font-size: var(--font-size-3xl);
+    line-height: 19px;
+  }
+  .soon-title {
+    flex-wrap: wrap;
+  }
+  .image-66-icon,
+  .image-67-icon1,
+  .image-68-icon,
+  .image-69-icon {
+    width: 100%;
+  }
+  .image-grid {
+    grid-template-columns: minmax(232px, 1fr);
+  }
+  .coming-soon2 {
+    font-size: var(--font-size-3xl);
+    line-height: 19px;
+  }
+  .movies-header {
+    flex-wrap: wrap;
+  }
+  .game-of-thrones10,
+  .game-of-thrones11,
+  .game-of-thrones12,
+  .game-of-thrones9 {
+    font-size: var(--font-size-lg);
+    line-height: 16px;
+  }
+  .component-4-group {
+    grid-template-columns: minmax(232px, 1fr);
+  }
+  .coming-soon3 {
+    font-size: var(--font-size-3xl);
+    line-height: 19px;
+  }
+  .coming-soon-parent {
+    flex-wrap: wrap;
+  }
+  .image-66-icon1,
+  .image-67-icon2,
+  .image-68-icon1,
+  .image-69-icon1 {
+    width: 100%;
+  }
+  .image-66-parent {
+    grid-template-columns: minmax(232px, 1fr);
+  }
+  .navigation-header {
+    height: auto;
+    gap: 21px;
+  }
+  .latest-news {
+    font-size: var(--font-size-xl);
+    line-height: 19px;
+  }
+  .new-american-films {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .news-item {
+    padding-top: 134px;
+    padding-bottom: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .event-list {
+    gap: var(--gap-6xl);
+  }
+  .news-image-container-parent {
+    gap: 234px;
+  }
+  .footer-content,
+  .news-image-container-parent {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
